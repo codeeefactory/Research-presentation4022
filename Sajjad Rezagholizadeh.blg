@@ -1,0 +1,74 @@
+This is BibTeX, Version 0.99d (TeX Live 2023)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Sajjad Rezagholizadeh.aux
+The style file: ieeetr-fa.bst
+Database file #1: lib.bib
+Repeated entry---line 344 of file lib.bib
+ : @article{subasi2021comparative
+ :                               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 354 of file lib.bib
+ : @article{sayamber2014malicious
+ :                               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 364 of file lib.bib
+ : @article{jian2016design
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 414 of file lib.bib
+ : @article{chen2021malicious
+ :                           ,
+I'm skipping whatever remains of this entry
+-- ieeetr-fa.bst version 0.9 (2015/05/09) 
+-- This is a BibTeX style for XePersian: http://www.parsilatex.com
+Warning--empty publisher in sharma2020malicious
+Warning--empty journal in oyelakin2023performance
+Warning--empty year in oyelakin2023performance
+Warning--empty publisher in rajalakshmi2019transfer
+Warning--empty publisher in wejinya2021machine
+Warning--empty booktitle in alzubaidi_detect
+Warning--empty year in alzubaidi_detect
+
+Done.
+You've used 19 entries,
+            2349 wiz_defined-function locations,
+            709 strings with 8326 characters,
+and the built_in function-call counts, 6149 in all, are:
+= -- 518
+> -- 208
+< -- 0
++ -- 76
+- -- 57
+* -- 400
+:= -- 736
+add.period$ -- 18
+call.type$ -- 19
+change.case$ -- 19
+chr.to.int$ -- 0
+cite$ -- 26
+duplicate$ -- 317
+empty$ -- 553
+format.name$ -- 57
+if$ -- 1681
+int.to.chr$ -- 0
+int.to.str$ -- 19
+missing$ -- 185
+newline$ -- 140
+num.names$ -- 19
+pop$ -- 104
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 208
+stack$ -- 0
+substring$ -- 346
+swap$ -- 123
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 4
+type$ -- 0
+warning$ -- 7
+while$ -- 52
+width$ -- 21
+write$ -- 235
+(There were 4 error messages)
